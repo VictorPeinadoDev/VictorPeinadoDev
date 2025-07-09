@@ -1,5 +1,5 @@
 # Hey, I'm Victor 👋
-🎓 Just finished a Master's in Web App Development<br>💻 Passionate about coding and building meaningful projects<br>🎮 Gamer at heart, always up for a good challenge<br>💪 Big fan of fitness and staying active<br>📍 Based in Granada, Spain
+🎓 Just finished a Master's in Programming and Application Development<br>💻 Passionate about coding and building meaningful projects<br>🎮 Gamer at heart, always up for a good challenge<br>💪 Big fan of fitness and staying active<br>📍 Based in Granada, Spain
 
 
 ## 🌐 Socials:
